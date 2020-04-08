@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="25px" viewBox="0 0 22 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>thumbs-up</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-398.000000, -4619.000000)" fill-rule="nonzero" fill="#000000">
+            <g id="thumbs-up" transform="translate(398.000000, 4619.000000)">
+                <path d="M16.016,8.83611111 C15.833125,8.34305556 20.882125,3.78888889 17.93825,0.0986111111 C17.249375,-0.763888889 14.911875,4.23055556 11.592625,6.49166667 C9.761125,7.73888889 5.5,10.3944444 5.5,11.8625 L5.5,21.3652778 C5.5,23.1305556 12.25675,25 17.391,25 C19.273375,25 22,13.0888889 22,11.1972222 C22,9.29722222 16.196125,9.33055556 16.016,8.83611111 Z M4.125,8.96805556 C3.22025,8.96805556 0,9.52361111 0,13.3055556 L0,20.0388889 C0,23.8180556 3.22025,24.2347222 4.125,24.2347222 C5.028375,24.2347222 2.75,23.4402778 2.75,21.0958333 L2.75,12.2444444 C2.75,9.78888889 5.028375,8.96805556 4.125,8.96805556 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>
